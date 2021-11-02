@@ -1,0 +1,69 @@
+Questions
+What are the pillars of object-oriented programming ?
+Objects, Classes, Attributes and Méthods.
+Inheritance, Polymorphism, Classes and objects.
+Abstraction, Encapsulation, Inheritance, Polymorphism.
+R/ a
+Select the correct instruction to add 2 numbers. They must be greater than 5 and less than 25 otherwise returns (0).
+if ((number1 > 5 && number1 < 25) && (number2 > 5 && number2 < 25))
+		return (number1 + number2);								else														return 0;
+if ((number1 >= 5 && number1 <= 25) && (number2 >= 5 && number2 <= 25))
+return (number1 + number2);						else												return 0;
+if ((number1 >= 5 and number1 <= 25) or (number2 >= 5 and number2 <= 25))
+return (number1 + number2);						else												return 0;
+
+Answer/a.
+     
+Select the correct statement to define a method that returns the sum of 2 integers.
+Public suma(number1, number2) as integer
+int Suma(int number1, int number2)
+Function Suma(number1 as integer, number2 as integer) as integer
+                          
+                         R/c
+Select the correct answer or answers in the following Boolean comparisons.
+
+(true && false) = false
+(true || false) = true
+(false || true) = false
+(true && false) & (true && true) = false.
+Todas las anteriores 
+
+Answer/e
+
+
+
+Select the correct answer: What is C#?
+a Microsoft Framework.
+An imperative programming language.
+An object-oriented programming language
+A framework for programming in .NET
+R/c
+Which access modifier should you use in C# if you want a method to be visible only to the classes in its assembly ?
+Private
+Public
+Protected
+Internal
+
+Answer/A
+
+How to apply inheritance in C# (The Class Employee should inherit from class Persona).
+Public class Empleado : Persona
+Public class Empleado by Persona
+Public class Empleado Extend Persona
+
+Answer/E
+
+What is Linq ?
+Es un lenguaje de programación para base de datos.
+Es una librería para consultas en archivos planos.
+Es un lenguaje de consultas para colecciones de objetos.
+Todas las anteriores
+Answer/K
+
+Create and execute a query that brings back Id_product description, measure unit, sale value in the list of prices for the public. Please keep in mind you have the following product table (id_product, description, reference, unit, percentagelva, status), price_detail (id_price_list, id_product, salevalue, discount_percentage), Prices (id_price_list, description, creation_date, expiration_date, status).
+
+10.From your perspective, what is the role that software developers have in the modern world?
+
+R/The software Developer has the role to bring constand change and solve problems to the modern world, thats its role solve the problems that all users of the modern technology has , if the users of our technology has a need or has a problem the ones that are in charge of provide a solution and make a real change to those problems are the Software Developers.
+
+
